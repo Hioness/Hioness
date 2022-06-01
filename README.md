@@ -1,0 +1,3 @@
+- I'm Sam
+- Know a lot, don't know a lot more
+- Trying to learn radnom fun Linux things
